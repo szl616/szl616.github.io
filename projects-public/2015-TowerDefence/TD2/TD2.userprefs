@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\The Cannon Game\Assets\showWhenPaused.cs">
+    <Files>
+      <File FileName="..\..\The Cannon Game\Assets\ShowWhenDeadNPaused.cs" Line="13" Column="41" />
+      <File FileName="..\..\The Cannon Game\Assets\ShowWhenDead.cs" Line="26" Column="3" />
+      <File FileName="..\..\The Cannon Game\Assets\showWhenPaused.cs" Line="22" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
