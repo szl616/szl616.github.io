@@ -1,6 +1,0 @@
-﻿function Start ()
-
-{
-
-audio.Play();
-}
