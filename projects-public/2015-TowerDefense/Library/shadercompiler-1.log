@@ -1,0 +1,57 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-20800
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=6414 outsize=905 ok=1
+Cmd: preprocess
+  insize=1306 outsize=373 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (25): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=1235 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=32583 outsize=255 ok=1
+Cmd: preprocess
+  insize=5175 outsize=1721 ok=1
+Cmd: preprocess
+  insize=2274 outsize=1036 ok=1
+Cmd: preprocess
+  insize=6737 outsize=236 ok=1
+Cmd: preprocess
+  insize=4268 outsize=418 ok=1
+Cmd: preprocess
+  insize=4608 outsize=888 ok=1
+Cmd: preprocess
+  insize=1310 outsize=384 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): unrecognized identifier 'UNITY_FOG_COORDS'
+  api=4 type=0 insize=1228 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5717 outsize=1218 ok=1
+Cmd: preprocess
+  insize=716 outsize=286 ok=1
+Cmd: preprocess
+  insize=656 outsize=299 ok=1
+Cmd: preprocess
+  insize=3696 outsize=631 ok=1
+Cmd: preprocess
+  insize=799 outsize=276 ok=1
+Cmd: preprocess
+  insize=1265 outsize=270 ok=1
+Cmd: preprocess
+  insize=2015 outsize=947 ok=1
+Cmd: preprocess
+  insize=5095 outsize=701 ok=1
+Cmd: preprocess
+  insize=1017 outsize=470 ok=1
+Cmd: preprocess
+  insize=1139 outsize=364 ok=1
+Cmd: preprocess
+  insize=512 outsize=241 ok=1
+Cmd: preprocess
+  insize=650 outsize=290 ok=1
+Cmd: preprocess
+  insize=5006 outsize=866 ok=1
+Unhandled exception: Readfile from pipe failed. GLE=Pipen er blevet afsluttet.
+
+
+Quitting shader compiler process
