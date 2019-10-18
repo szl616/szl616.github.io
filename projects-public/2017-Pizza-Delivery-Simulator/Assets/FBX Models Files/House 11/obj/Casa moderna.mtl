@@ -1,0 +1,109 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl hamerrite_gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.419608 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Casa moderna/hamerrite_gray.jpg
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.211765 0.101961
+Ks 0.330000 0.330000 0.330000
+map_Kd Casa moderna/Wood_Cherry_Original.jpg
+
+newmtl hamerrite_gray1
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.215686 0.011765
+Ks 0.330000 0.330000 0.330000
+map_Kd Casa moderna/hamerrite_gray1.jpg
+
+newmtl steel_blurry
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.270588 0.270588
+Ks 0.330000 0.330000 0.330000
+
+newmtl steel_brushed_light
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_0135_DarkGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.317647 0.317647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Cladding_Stucco_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.330000 0.330000 0.330000
+map_Kd Casa moderna/Cladding_Stucco_White.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_0137_Black
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl blanco
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.411765 0.168627
+Ks 0.330000 0.330000 0.330000
+map_Kd Casa moderna/blanco.jpg
+
+newmtl _Wood_Bamboo_Medium_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.411765 0.168627
+Ks 0.330000 0.330000 0.330000
+map_Kd Casa moderna/_Wood_Bamboo_Medium_1.jpg
+
+newmtl M_0133_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+
+newmtl Vidrio
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.819608 0.819608
+Ks 0.330000 0.330000 0.330000
+d 0.350000
+
+newmtl _Cladding_Stucco_White_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.330000 0.330000 0.330000
+map_Kd Casa moderna/_Cladding_Stucco_White_1.jpg
+
+newmtl M_0128_White
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Blinds_Cellular_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.827451 0.835294
+Ks 0.330000 0.330000 0.330000
+map_Kd Casa moderna/Blinds_Cellular_White.jpg
+
+newmtl M_0132_LightGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.662745 0.662745
+Ks 0.330000 0.330000 0.330000
+
+newmtl Tile_Ceramic_Natural
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.705882 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Casa moderna/Tile_Ceramic_Natural.jpg
+
+newmtl M_0039_DarkOrange
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.549020 0.000000
+Ks 0.330000 0.330000 0.330000
+
