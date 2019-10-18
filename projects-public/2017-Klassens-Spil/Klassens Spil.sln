@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klassens Spil", "Assembly-CSharp-firstpass.csproj", "{8E5E136F-2FD2-4853-CC6A-8A473486711F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klassens Spil", "Assembly-CSharp.csproj", "{5E264C16-3600-E5FB-43B1-1362B69782BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klassens Spil", "Assembly-CSharp-Editor-firstpass.csproj", "{4F707E59-CDEF-3B14-D536-D6EB94D0E4A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E5E136F-2FD2-4853-CC6A-8A473486711F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5E136F-2FD2-4853-CC6A-8A473486711F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5E136F-2FD2-4853-CC6A-8A473486711F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5E136F-2FD2-4853-CC6A-8A473486711F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E264C16-3600-E5FB-43B1-1362B69782BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E264C16-3600-E5FB-43B1-1362B69782BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E264C16-3600-E5FB-43B1-1362B69782BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E264C16-3600-E5FB-43B1-1362B69782BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F707E59-CDEF-3B14-D536-D6EB94D0E4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F707E59-CDEF-3B14-D536-D6EB94D0E4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F707E59-CDEF-3B14-D536-D6EB94D0E4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F707E59-CDEF-3B14-D536-D6EB94D0E4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
